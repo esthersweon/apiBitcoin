@@ -1,0 +1,13 @@
+body {
+	height: 100%;
+	width: 100%;
+	background-image: url("https://bitcoin.org/img/icons/opengraph.png");
+    background-size: 110% 110%;
+	background-repeat: no-repeat;
+}
+
+
+
+h1 {
+	font-family: sans-serif;
+}
